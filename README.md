@@ -1,3 +1,3 @@
 # Portfolio
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/bhaskar-mani06/Portfolio)
+[Visit my portfolio ⚡️](https://resilient-marshmallow-673e35.netlify.app/)
