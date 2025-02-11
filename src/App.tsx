@@ -150,7 +150,7 @@ function App() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {[
               {
-                title: 'Data Analysis Dashboard',
+                title: 'To-DO List',
                 desc: 'Build an interactive dashboard using Python and Streamlit,Implement real-time data updates',
                 image: 'https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&q=80&w=800',
                 tags: ['Python', 'Streamlit', 'Pandas']
