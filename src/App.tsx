@@ -156,10 +156,10 @@ function App() {
                 tags: ['Python', 'Streamlit', 'Pandas']
               },
               {
-                title: 'Task Management API',
-                desc: 'RESTful API built with FastAPI and PostgreSQL. Includes user authentication, task CRUD operations, and detailed API documentation.',
+                title: 'Employee Management API',
+                desc: 'RESTful API using FastAPI and PostgreSQL, featuring employee management, advanced search filters, leave request handling, and high-performance optimization with 99.9% uptime.',
                 image: 'https://images.unsplash.com/photo-1555949963-aa79dcee981c?auto=format&fit=crop&q=80&w=800',
-                tags: ['FastAPI', 'PostgreSQL', 'Docker']
+                tags: ['FastAPI · PostgreSQL · Docker | Scalable EMS with CRUD operations']
               },
               {
                 title: 'ML Price Predictor',
