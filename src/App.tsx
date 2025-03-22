@@ -165,8 +165,7 @@ function App() {
                 title: 'MyAI',
                 desc: 'AI-powered Question-Answering System delivering accurate, instant responses with real-time data from APIs, 30% improved NLP accuracy, scalable APIs handling 10,000+ queries daily (99.9% uptime), and optimized data processing for faster retrieval.',
                 image: 'https://images.unsplash.com/photo-1516156008625-3a9d6067fab5?auto=format&fit=crop&q=80&w=800',
-                tags: ['React+Vite', 'API', 'HTML and CSS'],
-                github: 'https://github.com/bhaskar-mani06/MyAi'
+                tags: ['React+Vite', 'API', 'HTML and CSS']
               }
             ].map((project, index) => (
               <div 
