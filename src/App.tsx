@@ -162,10 +162,10 @@ function App() {
                 tags: ['FastAPI · PostgreSQL · Docker | Scalable EMS with CRUD operations']
               },
               {
-                title: 'ML Price Predictor',
-                desc: 'Machine learning model for real estate price prediction. Uses historical data and various features to predict property prices with high accuracy.',
+                title: 'MyAI',
+                desc: 'AI-powered Question-Answering System delivering accurate, instant responses with real-time data from APIs, 30% improved NLP accuracy, scalable APIs handling 10,000+ queries daily (99.9% uptime), and optimized data processing for faster retrieval.',
                 image: 'https://images.unsplash.com/photo-1516156008625-3a9d6067fab5?auto=format&fit=crop&q=80&w=800',
-                tags: ['Python', 'Scikit-learn', 'Pandas']
+                tags: ['React+Vite', 'API', 'HTML and CSS']
               }
             ].map((project, index) => (
               <div 
